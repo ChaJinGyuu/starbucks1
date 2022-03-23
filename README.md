@@ -194,9 +194,3 @@ new Swiper('변경 .swiper', {
     },
     768: {
       slidesPerView: 3, //레이아웃 3열
-    },
-    1024: {
-      slidesPerView: 4, //레이아웃 4열
-    },
-  }
-});
